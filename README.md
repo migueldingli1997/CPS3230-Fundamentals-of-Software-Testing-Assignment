@@ -1,5 +1,5 @@
 # CPS3230 (Fundamentals of Software Testing) Assignment
-This is the group submission for the CPS3230 Assignment.
+This is the group submission for the CPS3230 Assignment. The [solution](https://github.com/migueldingli1997/CPS3230-Fundamentals-of-Software-Testing-Assignment/tree/master/Implementation) includes a `pom.xml` file for the required dependencies.
 
 ## Note for testing
 To run any of the Cucumber Tests or the ModelJUnit test suite,  the webserver needs to be running. To do this, the main method in `webapp.StartJettyHandler` needs to be run. After the server has turned on, the web app is available on `http://localhost:8080`.
