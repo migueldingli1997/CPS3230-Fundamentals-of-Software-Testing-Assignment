@@ -6,4 +6,4 @@ To run any of the Cucumber Tests or the ModelJUnit test suite,  the webserver ne
 
 Furthermore, chromedriver needs to be installed and placed in the working directory. Normally, this is the root folder. Chromedriver has not been included since it is platform dependent. You will also need Google Chrome installed.
 
-[Link to Chromedriver](https://sites.google.com/a/chromium.org/chromedriver/)
+Chromedriver can be found [here](https://sites.google.com/a/chromium.org/chromedriver/).
